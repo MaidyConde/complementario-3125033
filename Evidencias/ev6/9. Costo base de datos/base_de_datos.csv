@@ -1,0 +1,15 @@
+Base de Datos,Costo
+DynamoDB,80936
+Elasticsearch,67021
+Cassandra,64930
+Redis,64548
+IBM DB2,64044
+Couchbase,63018
+PostgreSQL,59454
+Microsoft SQL Server,58167
+SQLite,51704
+Oracle,48644
+MariaDB,45678
+MongoDB,45401
+MySQL,43404
+Firebase,37834
